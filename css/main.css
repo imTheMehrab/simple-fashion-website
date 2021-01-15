@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.nav-bar,.nav-item,.nav-link{
+    color:black;
+    margin:10px;
+    font-size: 20px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bg-color{
+    background-color:#FFFBF0;
+}
+.header-part{
+    margin-left: 0;
+}
+.headline-1{
+    color:rgb(134, 185, 58);
+    font-weight:700;
+    text-transform: uppercase;
+    font-size:50px;
+}
+.headline-2{
+    color:#363958;
+    font-weight:700;
+    text-transform: uppercase;
+    font-size:50px;
+    line-height:2rem;
+}
+.header-part p{
+    color:grey;
+    font-size: 18px;
+    margin:25px 0;
+}
+.buy_buttons{
+    background-color:#74ca71;
+    border-radius:8px;
+    height:50px;
+    width:150px;
+    text-align:center;
+    border-style: none;
+    padding:5px;
+    margin-left: 5px;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+.buy_buttons:hover{
+    background-color:#398f47;
+    color: white;
+}
+.buy_buttons img{
+    width:30px;
+}
+.item_card{
+    border: 0;
+}
+.item_footer_card{
+    background-color:white;
+    border: 0;
+}
+.product_head{
+    color:#363958;
+    font-size:36px;
+    font-weight:700;
+    text-transform: uppercase;
+}
+.card-title{
+    color:#363958;
+    font-size: 30px;
+    font-weight: 700;
+}
+.card_img{
+    width:80%;
+    height:60%;
+    background-color:#F1F1F1;
+    margin-left:35px;
+    position:center;
+}
+.card-text{
+    color: rgb(95, 82, 82);
+}
+.card-footer h5{
+   margin-top: 10px;
+    font-size: 30px;
+    margin-right:10px;
+    font-weight:700;
+    color:rgb(13, 172, 13);
+}
+footer{
+    background-color:rgb(79, 92, 82);
+    margin-bottom: 0;
+    height:auto;
+    margin-bottom: 10px; 
+}
+.footer_content, h2{
+    font-size:22px;
+    text-transform:uppercase;
+    font-weight:600;
+    color:rgb(255, 255, 255);
+}
+.content_left, p{
+    font-size:18px;
+    color: silver;  
+}
+.email input{
+    width:200px;
+}
+.address_box ul{
+    list-style:none;
+    padding: 10px;
+    font-size:20px;
+}
+.address_box,li, i{
+    color:#3b90c2;
+    margin-right: 10px;
+}
+.address_box,span{
+    text-align:left;
+    margin: 0;
+    padding:0;
+}
+.left_box,.content,.social a{
+    padding:0 2px;
+}
+.social a:hover{
+    background-color:#4c528f;
+}
+.text{
+    color:silver;
+    font-size:20px;
+}
+.btn{
+    background-color :rgb(136, 206, 108);
+    border-radius: 5px;
+    width:100px;
+    height:30px;
+    border-style: none;
+    text-align: center;
+    text-transform: uppercase;
+}
+.btn:hover{
+    background-color:#363958;
+    color: white;
+}
+.copyright_area{
+    text-align: center;
+    font-size: 14px;
+    line-height: 10px;
+    color:silver;
+    padding:10px;
+}
+hr{
+    color:silver;
+}
+.left_box,.center_box,.right_box{
+    padding:10px;
+    width:300px;
+    height:350px; 
+}
